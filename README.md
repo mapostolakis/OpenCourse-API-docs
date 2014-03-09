@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://open.course.s3.amazonaws.com/web.png" alt="OpenCourse" style="width: 200px;"/>
+  <img src="http://open.course.s3.amazonaws.com/web.png" alt="OpenCourse" width="200"/>
 </p>
 
 ## Overview
