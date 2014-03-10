@@ -28,14 +28,14 @@ To make an API call, you must have a valid **API Key**. The response format is c
 
 ### Departments
 
-- /departments/all
-- /department/id/{department_id}
+- [/departments/all](/api/departments/departments_all.md)
+- [/department/id/{department_id}](/api/departments/departments_id.md)
 
 ### Majors
 
-- /majors/all
-- /majors/school/{school_id}
-- /majors/id/{major_id}/items
+- [/majors/all](/api/majors/majors_all.md)
+- [/majors/school/{school_id}](/api/majors/majors_school.md)
+- [/majors/id/{major_id}/items](/api/majors/majors_id_items.md)
 
 ## Restrictions
 
