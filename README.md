@@ -23,18 +23,19 @@ To make an API call, you must have a valid **API Key**. The response format is c
 
 ### Courses
 
-- /coures/{code}
+- [/courses/id/{course_id}](/api/courses/courses_id.md)
+- [/courses/code/{code}](/api/courses/courses_code.md)
 
 ### Departments
 
 - /departments/all
-- / department/{department_id}/courses
+- /department/id/{department_id}
 
 ### Majors
 
 - /majors/all
-- /majors/{school_id}
-- /majors/{major_id}/items
+- /majors/school/{school_id}
+- /majors/id/{major_id}/items
 
 ## Restrictions
 
