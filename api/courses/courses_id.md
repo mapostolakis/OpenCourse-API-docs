@@ -40,9 +40,9 @@ Field Name   |  Type    | Description
 
 ## Output
 
-### JSON
+### JSON example
 
-```json example
+```json 
 [
   {
     "id": 40,
