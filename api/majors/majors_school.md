@@ -11,7 +11,7 @@ Returns all available information for any majors stored in the database, for a s
 Parameter  | Type | Required | Description
 ------- | ------- | ------ | --------
 **key** |  String | yes   | Valid API Key
-**school** | Integer | yes | The specified school.
+**school_id** | Integer | yes | The specified school id. For more information see __School Codes__ below.
 
 **Output Format**
 
