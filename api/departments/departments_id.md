@@ -11,6 +11,7 @@ Returns all available information of a given department for a specific departmen
 Parameter  | Type | Required | Description
 ------- | ------- | ------ | --------
 **key** |  String | yes   | Valid API Key
+**id**  | Integer | yes   | The id of the department.
 
 **Output Format**
 
