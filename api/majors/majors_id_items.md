@@ -11,6 +11,7 @@ Returns all available information of the major items of a major, for a specific 
 Parameter  | Type | Required | Description
 ------- | ------- | ------ | --------
 **key** |  String | yes   | Valid API Key
+**major_id | Integer | yes | The id of the specified major.
 
 **Output Format**
 
